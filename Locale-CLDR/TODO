@@ -1,0 +1,14 @@
+This is the TODO list
+
+Fix regionFormat in Timezone names.
+
+**********************************************
+Second thaughts on gettext/maktext
+
+I have decided that the simple way to do this is to impliment ngettext,
+possibly with extentions. Also add functionality to handle .po files 
+and .mo/.gmo files
+
+**********************************************
+
+Colation
